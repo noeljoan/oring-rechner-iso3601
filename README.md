@@ -2,6 +2,10 @@
 
 A modern web‑based calculator for O‑ring dimensions and tolerances based on **DIN ISO 3601**.
 
+## Screenshoot
+
+![Dashboard](screenshot.png)
+
 ## ✨ Features
 - Compute O‑ring inner diameter, cross‑section, compression and groove fill percentages.
 - Temperature compensation for common elastomers (FPM, NBR, EPDM, HNBR, steel, stainless steel).
