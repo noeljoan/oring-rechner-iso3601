@@ -6,7 +6,7 @@ A modern web‑based calculator for O‑ring dimensions and tolerances based on 
 
 ![Dashboard](screenshot.png)
 
-![Report Example](Report-example.png)
+![Report Example](Report-example.pdf)
 
 ## ✨ Features
 - Compute O‑ring inner diameter, cross‑section, compression and groove fill percentages.
