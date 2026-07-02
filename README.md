@@ -2,7 +2,7 @@
 
 A modern web‑based calculator for O‑ring dimensions and tolerances based on **DIN ISO 3601**.
 
-## Screenshoot
+## Screenshot
 
 ![Dashboard](screenshot.png)
 
